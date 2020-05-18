@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+     <loc>http://127.0.0.1:8001/</loc>
+     <lastmod>2020-05-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>http://127.0.0.1:8001/appointmentWizard/appointmentIntroduction/</loc>
+     <lastmod>2020-05-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>http://127.0.0.1:8001/appointmentWizard/saleMainAppointment/SalesMainAppointment%28TSK_MAPT%29/</loc>
+     <lastmod>2020-05-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>http://127.0.0.1:8001/appointmentWizard/purchaseMainAppointment/purchaseMainAppointment/</loc>
+     <lastmod>2020-05-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>http://127.0.0.1:8001/propertyWizard/propertyIntroduction/</loc>
+     <lastmod>2020-05-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>http://127.0.0.1:8001/propertyWizard/propertyListing/propertyListing/</loc>
+     <lastmod>2020-05-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>http://127.0.0.1:8001/propertyWizard/propertyProject/propertyProject/</loc>
+     <lastmod>2020-05-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
